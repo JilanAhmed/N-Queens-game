@@ -1,5 +1,5 @@
 # N-Queens-game
-an AI program for a game called N Queens
+an AI program for a game called N Queens using pycharm
 The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. 
 a solution requires that no two queens share the same row, column, or diagonal.
 There are 92 solutions. 
